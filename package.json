@@ -1,0 +1,20 @@
+{
+  "name": "nativescript-cli-vr",
+  "version": "1.0.0",
+  "description": "An extension for the NativeScript Command-Line Interface that allows building NativeScript applications for VR.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsvetie/nativescript-cli-vr.git"
+  },
+  "keywords": [
+    "nativescript",
+    "appbuilder",
+    "vr"
+  ],
+  "author": "tsvetie",
+  "license": "Apache-2.0"
+}

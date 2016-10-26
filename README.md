@@ -1,2 +1,2 @@
-# icenium-cli-vr
-An extension for the Command-Line Interface for Telerik AppBuilder by Progress that allows building NativeScript applications for VR.
+# nativescript-cli-vr
+An extension for the NativeScript Command-Line Interface that allows building NativeScript applications for VR.
